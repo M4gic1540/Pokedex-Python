@@ -50,11 +50,13 @@ bash
 # Clonar repositorio
 
 git clone https://github.com/tu_usuario/pokemon-viewer.git
+
 cd pokemon-viewer
 
 # Instalar dependencias
 
 pip install requests Pillow
+
 Método 2: Usando Entorno Virtual (Recomendado)
 bash
 
@@ -67,11 +69,14 @@ source venv/bin/activate # Linux/macOS
 # Instalar dependencias
 
 pip install -r requirements.txt
-Archivo requirements.txt
-text
+
+## El archivo requirements.txt debe tener estas 2 depependecias para funcionar
+
 requests==2.31.0
 Pillow==10.0.0
+
 # 🚀 Cómo Usar la Aplicación
+
 ## Iniciar la aplicación:
 
 # bash
