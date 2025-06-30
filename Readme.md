@@ -1,8 +1,10 @@
-Pokémon Viewer - Documentación Mejorada
-🎮 Visión General
+# Pokémon Viewer
+
+
+🎮 # Visión General
 Pokémon Viewer es una aplicación de escritorio que te permite explorar el mundo Pokémon de manera interactiva. Desarrollada en Python con Tkinter, ofrece una interfaz intuitiva para acceder a información detallada de tus Pokémon favoritos, incluyendo sus evoluciones, estadísticas y movimientos.
 
-✨ Características Destacadas
+✨ # Características Destacadas
 🔍 Búsqueda Avanzada
 Búsqueda por nombre con autocompletado
 
